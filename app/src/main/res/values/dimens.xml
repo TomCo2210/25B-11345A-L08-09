@@ -11,5 +11,5 @@
     <dimen name="data_start_margin">85dp</dimen>
     <dimen name="title_size">18sp</dimen>
     <dimen name="heart_dimension">24dp</dimen>
-    <dimen name="data_text_size">11sp</dimen>
+    <dimen name="data_text_size">13sp</dimen>
 </resources>
